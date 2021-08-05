@@ -1,52 +1,44 @@
-### Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-ViniciusOliver-stack&color=blue)
----
-### INFO
-- 👨‍🎓 **Cursando Sistema de Informação [UNIFACS](https://www.unifacs.br/graduacao-bacharelado/sistemas-de-informacao/) - 3° Semestre**
-- 🌱 Atualmente aprendendo: <p>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whitee)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  
-<p align="center">
-<img src="https://user-images.githubusercontent.com/81930401/117557566-71e78980-b04a-11eb-97ab-5d00ec913789.gif" width="400px">
-</p>
-<p>
 
-<h2>Soft Skills 👨‍💻<br>
- <hr>
-<p align="center">
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react-native" >
- 
-</p>
-<h2>Contato 📱
-  <hr>
-  <p align="center">
-    <a href="https://github.com/ViniciusOliver-stack">
-        <img  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white://github.com/ViniciusOliver-stack">
+### <h3  align="center">Hi there | Olá <img  src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"  height="25px"> </h3>
+
+
+## <h3  align="center">BIO</h3>
+
+<p  align="center">👨‍🎓 Estudante do Curso de Sistema de Informação | Student at the Information System course </p>
+
+<p align="center"> UNIFACS - 4° Semestre | 4º Semester  </p>
+
+## <h3  align="center">Atualmente aprendendo | Currently learning</h3>
+
+<div  align="center"  style="display: inline_block"> 
+<img  width="55"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img  width="55"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img  width="55"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img  width="55"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img  width="55"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img  width="55"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img  width="63"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
+## <h3 align="center"> CONTATO | CONTACT</h3>
+<div  align="center"  style="display: inline_block">
+<a href="https://www.linkedin.com/in/viniciussantos-oliveira/">
+        <img  width="35px" 
+src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667">
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:vinicius.so.contato@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:vinicius.so.contato@gmail.com">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="mailto:vinicius.so.contato@hotmail.com">
+        <img width="35px" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667">
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/vinicius-santos-oliveira-8396b91a2/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/vinicius-santos-oliveira-8396b91a2/">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.instagram.com/0liveira_vini/">
+        <img  width="35px" 
+src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667">
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://wa.me/qr/SA4JEBMPPWVZG1">
-        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white:https://wa.me/qr/SA4JEBMPPWVZG1">
-    </a>
-</p>
