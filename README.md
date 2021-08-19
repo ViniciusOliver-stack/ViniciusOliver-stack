@@ -11,19 +11,19 @@
 ## <h3  align="center">Atualmente aprendendo | Currently learning</h3>
 
 <div  align="center"  style="display: inline_block"> 
-<img  width="55"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img  width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img  width="55"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img  width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img  width="55"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<img  width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img  width="55"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+<img  width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img  width="55"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg">
+<img  width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img  width="55"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<img  width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img  width="63"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+<img  width="60"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
 &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
