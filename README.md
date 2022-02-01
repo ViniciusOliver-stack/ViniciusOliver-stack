@@ -21,16 +21,14 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/b
 <img  width="50"  
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 &nbsp;&nbsp;&nbsp;&nbsp;
+<img  width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 ## <h3  align="center">Atualmente aprendendo | Currently learning</h3>
 
 <div  align="center"  style="display: inline_block"> 
-<img  width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img  width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg">
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img  width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<img  width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img  width="60"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
 &nbsp;&nbsp;&nbsp;&nbsp;
