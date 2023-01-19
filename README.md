@@ -3,6 +3,9 @@
 👋 <span>Hello, good to see you here, you can call me Vini<span> <br> 🔭 Currently looking for my first opportunity as a Front-end Developer 🚀! <br> 🌱 I'm currently learning React, Node.JS, SQL. <br> 📫 How to reach me: <b><a href="mailto:vinicius.so.contato@gmail.com">vinicius.so.contato@gmail.com</a></b> <br> ⚡ Fun fact: I like to watch documentary.
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/viniciussantos-oliveira/) 
+
 ## 💻 Tech Stack:
 
 <div style="display: inline_block">
@@ -25,22 +28,10 @@
 </div>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ViniciusOliver-stack&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ViniciusOliver-stack&theme=dracula&hide_border=false)<br/>
 
-
-## 📌 Pinned Repositories
-<div>
-<a href="https://github.com/ViniciusOliver-stack/Rocketseat-Explorer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=viniciusoliver-stack&repo=Rocketseat-Explorer&text_color=ccc&theme=dracula&title_color=fff">
-</a>
-<a href="https://github.com/ViniciusOliver-stack/Focus-Pomodoro">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=viniciusoliver-stack&repo=Focus-Pomodoro&text_color=ccc&theme=dracula&title_color=fff">
-</a>
-<a href="https://github.com/ViniciusOliver-stack/Pokedex-V2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=viniciusoliver-stack&repo=Pokedex-V2&text_color=ccc&theme=dracula&title_color=fff" >
-</a>
-<div>
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
