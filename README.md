@@ -19,8 +19,8 @@
 
 ## 📊 GitHub Stats:
 
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula"/>
- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgustavosantos&layout=compact&langs_count=7&theme=dracula&hide_border=false"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ViniciusOliver-stack&show_icons=true&theme=dracula"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusOliver-stack&layout=compact&langs_count=7&theme=dracula&hide_border=false"/>
  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusOliver-stack&theme=dracula&hide_border=false"/>
 <br/>
 
